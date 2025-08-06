@@ -3,6 +3,7 @@
 A simple and interactive To-Do List application built using HTML, CSS, and Vanilla JavaScript. This app allows users to add, mark, and delete tasks with a clean user interface.
 
 🚀 Features
+
 ✅ Add new tasks
 
 ✔️ Mark tasks as complete (with line-through)
